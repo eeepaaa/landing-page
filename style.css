@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #1f2937;
+  display: flex;
+  height: 75px;
+  padding: 20px 270px 0 240px;
+  justify-content: space-between;
+}
+
+.header-text {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.hero-secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+  margin: 5.7px 10px 0 10px;
+}
+
+.nav-button-container {
+  display: flex;
+}
